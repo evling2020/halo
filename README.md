@@ -1,7 +1,7 @@
 # 基于 halo 构建网站
 ## 快速开始
 ```bash
-git clone git@github.com:evling2020/halo.git 
+git clone https://github.com/evling2020/halo.git
 docker-compose up -d
 ```
 
